@@ -8,8 +8,11 @@
 
 **Data Visualization**- Power BI
 
+
 **REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT**
+
 **2021**-Previous Year
+
 **2022**- Current Year	
 
 -Total Casualties and Total Accident values for the Current Year and Year on Year growth (Primary KPI’s)
@@ -25,6 +28,7 @@
 -Current Year Casualties by Area/Location and by Day/Night.
 
 -Total Casualties and Total Accidents by Location.
+
 
 **STAKEHOLDERS**
 
