@@ -4,13 +4,13 @@
 
 **Data Used- Road Accident Data for the year 2021 and 2022**
 
-Data Cleaning & Analysis- Power Query
+**Data Cleaning & Analysis**- Power Query
 
-Data Visualization- Power BI
+**Data Visualization**- Power BI
 
-REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT
-2021-Previous Year
-2022- Current Year	
+**REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT**
+**2021**-Previous Year
+**2022**- Current Year	
 
 -Total Casualties and Total Accident values for the Current Year and Year on Year growth (Primary KPI’s)
 
@@ -26,7 +26,7 @@ REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT
 
 -Total Casualties and Total Accidents by Location.
 
-STAKEHOLDERS
+**STAKEHOLDERS**
 
 -Road Transport Department
 
@@ -43,7 +43,7 @@ STAKEHOLDERS
 -Media
 
 
-POWER BI FUNCTIONALITIES
+**POWER BI FUNCTIONALITIES**
 
 
 -Connecting raw/flat file to Power BI.
@@ -66,7 +66,7 @@ POWER BI FUNCTIONALITIES
 
 -Export the report to PDF format
 
-SUMMARY OF FINDINGS
+**SUMMARY OF FINDINGS**
 
 -The number of accidents and casualties have decreased from the previous year to the current year which is a good thing because less   cases of accidents and casualties reported.
 
