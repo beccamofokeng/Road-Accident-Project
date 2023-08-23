@@ -45,6 +45,7 @@ STAKEHOLDERS
 
 POWER BI FUNCTIONALITIES
 
+
 -Connecting raw/flat file to Power BI.
 
 -Data cleaning in Power Query.
