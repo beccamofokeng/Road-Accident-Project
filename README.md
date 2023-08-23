@@ -20,13 +20,21 @@ REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT
 7.	Total Casualties and Total Accidents by Location.
 
 STAKEHOLDERS
+
 -Road Transport Department
+
 -Police Department
+
 -Emergency Department Service
+
 -Road Safety Cops
+
 -Traffic Management Agencies
--Public 
--Media 
+
+-Public
+
+-Media
+
 
 POWER BI FUNCTIONALITIES
 -Connecting raw/flat file to Power BI.
