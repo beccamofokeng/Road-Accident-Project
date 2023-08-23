@@ -9,15 +9,22 @@ Data Cleaning & Analysis- Power Query
 Data Visualization- Power BI
 
 REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT
-	2021-Previous Year
-  2022- Current Year
-1.	Total Casualties and Total Accident values for the Current Year and Year on Year growth (Primary KPI’s).
-2.	Total Casualties by Accident Severity for the Current Year and Year on Year growth (Primary KPI’s).
-3.	Total Casualties with respect to vehicle type for the Current Year (Secondary KPI’s).
-4.	Monthly trend showing comparison of casualties for the Current Year and Previous Year.
-5.  Casualties by Road Type for the Current Year.
-6.	Current Year Casualties by Area/Location and by Day/Night.
-7.	Total Casualties and Total Accidents by Location.
+2021-Previous Year
+2022- Current Year	
+
+-Total Casualties and Total Accident values for the Current Year and Year on Year growth (Primary KPI’s)
+
+-Total Casualties by Accident Severity for the Current Year and Year on Year growth (Primary KPI’s).
+
+-Total Casualties with respect to vehicle type for the Current Year (Secondary KPI’s).
+
+-Monthly trend showing comparison of casualties for the Current Year and Previous Year.
+
+-Casualties by Road Type for the Current Year.
+
+-Current Year Casualties by Area/Location and by Day/Night.
+
+-Total Casualties and Total Accidents by Location.
 
 STAKEHOLDERS
 
@@ -37,15 +44,25 @@ STAKEHOLDERS
 
 
 POWER BI FUNCTIONALITIES
+
 -Connecting raw/flat file to Power BI.
+
 -Data cleaning in Power Query.
+
 -Data Processing.
+
 -Time Intelligence Functions and Calendar Date Table in Power BI.
+
 -Data Modelling (Relationship between multiple tables).
+
 -Calculations using DAX.
+
 -KPI and Advanced KPI Generations.
+
 -Creating custom columns and measures in the reports.
+
 -Creating different charts and generating insights.
+
 -Export the report to PDF format
 
 SUMMARY OF FINDINGS
