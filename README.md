@@ -3,7 +3,9 @@
 ![image](https://github.com/beccamofokeng/Road-Accident-Project/assets/141571635/90c32cd1-23b2-4990-aefd-70cc74ecbfd8)
 
 Data Used- Road Accident Data for the year 2021 and 2022
+
 Data Cleaning & Analysis- Power Query
+
 Data Visualization- Power BI
 
 REQUIREMENTS/QUESTIONS TO ANSWER FOR THE PROJECT
