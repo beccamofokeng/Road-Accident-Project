@@ -1,6 +1,7 @@
 # Road-Accident-Project
+![Screenshot 2023-08-28 180901](https://github.com/beccamofokeng/Road-Accident-Project/assets/141571635/3e12ae99-165e-4231-a665-0ac613a24a56)
 
-![image](https://github.com/beccamofokeng/Road-Accident-Project/assets/141571635/90c32cd1-23b2-4990-aefd-70cc74ecbfd8)
+
 
 **Data Used- Road Accident Data for the year 2021 and 2022**
 
@@ -72,11 +73,11 @@
 
 **SUMMARY OF FINDINGS**
 
--The number of accidents and casualties have decreased from the previous year to the current year which is a good thing because less   cases of accidents and casualties reported.
+-The number of accidents and casualties have decreased from the previous year to the current year which is a good thing because less cases of accidents and casualties are reported.
 
--Most of the accidents occurring results to slight injuries than fatal injuries which is a good thing because that means there are not a lot of deaths occurring as a result of road accidents.
+-Most of the accidents results to slight injuries than fatal injuries which means there are not a lot of deaths occurring as a result of road accidents.
 
--There are more accidents caused by cars, bikes and vans than bus and agricultural vehicles.
+-There are more accidents caused by cars, bikes and vans and there are less accidents caused by buses and agricultural vehicles.
 
 -Most accidents take place between September and November and less accidents occur between December and February and for other months the number of accidents and casualties are fairly balanced.
 
